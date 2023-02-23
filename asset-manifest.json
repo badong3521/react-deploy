@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.568135bf.css",
+    "main.js": "/static/js/main.be902d2a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/onebox_text.png": "/static/media/onebox_text.2329200c55352a531556.png",
+    "static/media/logo_onebox.png": "/static/media/logo_onebox.cda1cc616cd3b1067fee.png",
+    "static/media/logo.png": "/static/media/logo.73b4daf582494a642885.png",
+    "index.html": "/index.html",
+    "main.568135bf.css.map": "/static/css/main.568135bf.css.map",
+    "main.be902d2a.js.map": "/static/js/main.be902d2a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568135bf.css",
+    "static/js/main.be902d2a.js"
+  ]
+}
